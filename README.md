@@ -1,10 +1,9 @@
-# Spring Petclinic Angular 
+# Rudy's Pet Clinic Angular Project
 
 [![Build Status](https://github.com/spring-petclinic/spring-petclinic-angular/actions/workflows/angular-ci.yml/badge.svg)](https://github.com/spring-petclinic/spring-petclinic-angular/actions/workflows/angular-ci.yml)
 
 ## Angular frontend for Spring Petclinic
-
-Warning: **client only**. 
+ 
   Use REST API from backend [spring-petclinic-rest project](https://github.com/spring-petclinic/spring-petclinic-rest)
   You need start backend server before start frontend application.
 
